@@ -87,7 +87,7 @@ all: $(BIN)
 
 # Build and Run program
 run: all
-	./$(BIN)
+	cd build && ./$(EXE)
 
 # Build, run program and launch GTKWave
 gtkwave: run

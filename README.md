@@ -1,3 +1,4 @@
+## desc
 NoCTweak: an On-Chip Network Simulator
 
 Authors: Anh Tran (Andrew), and Bevan Baas
@@ -43,3 +44,8 @@ Anh Tran and Bevan Baas,
 Performance and Energy of Networks On-Chip,"
 Technical Report, VCL Lab, ECE Department, UC Davis, July 2012.
 
+
+## run
+`source env.sh`
+`make`
+`make run`
